@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 # Installed packages
 library(tidyverse)
 ipt <- installed.packages() %>%
