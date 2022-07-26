@@ -1,7 +1,7 @@
-write_new_r\_file.R
+write\_new\_r\_file.R
 ================
-katerinawu
-2022-07-25
+Kat
+2022-07-26
 
 ``` r
 # Installed packages
@@ -25,4 +25,8 @@ ipt <- installed.packages() %>%
 nrow(ipt)
 ```
 
-    ## [1] 176
+    ## [1] 179
+
+``` r
+library(tidyverse)
+```
